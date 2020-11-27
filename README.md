@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://cdn.discordapp.com/attachments/781628013217447957/781969166609416252/brunkas.png" alt="Avatar" width="247" height="247">
+  <img src="https://cdn.discordapp.com/attachments/781628013217447957/781969166609416252/brunkas.png" alt="Avatar">
 </p>
 <p align="center">
     threat .
