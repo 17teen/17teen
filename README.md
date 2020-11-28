@@ -5,7 +5,7 @@
     threat .
 
 <p align="center">
-    17:
+    17 | juggin n finessing 🥤
 <p align="center"> 
     ﹒
     <a href="https://discord.com/users/709827684888215582">discord</a>
