@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">  
-  <img src="https://media.discordapp.net/attachments/781963848738930740/781964936275427388/unknown.png" alt="fax" width="499" height="197">
+  <img src="https://media.discordapp.net/attachments/781963848738930740/781964936275427388/unknown.png" alt="fax" width="450" height="197">
 </p>
 
 <p align="center">  
