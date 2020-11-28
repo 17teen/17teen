@@ -2,10 +2,10 @@
   <img src="https://cdn.discordapp.com/attachments/773670296967577600/782008223380668467/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3738313632383031333231.png" alt="Avatar">
 </p>
 <p align="center">
-    threat .
+    7teen
 
 <p align="center">
-   7teen | juggin n finessing 🥤
+juggin n finessing 🥤
 <p align="center"> 
     ﹒
     <a href="https://discord.com/users/709827684888215582">discord</a>
