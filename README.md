@@ -15,6 +15,7 @@
     <a href="https://steamcommunity.com/id/seven777teen/">steam</a>
     ﹒
     <a href="https://www.youtube.com/channel/UCf-qL9Z_NNwednPSoB42Gpg">youtube</a>
+    ﹒
 </p>
 
 <p align="center">  
