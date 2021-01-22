@@ -3,7 +3,9 @@
 </p>
 <p align="center">
     7teen
-
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=17teen&color=grey" alt="fax" width="" height="">
+</p>
 <p align="center">
 juggin n finessing 🥤
 <p align="center"> 
