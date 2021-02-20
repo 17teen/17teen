@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=17teen&color=grey" alt="fax" width="" height="">
 </p>
 <p align="center">
-juggin n finessing 🥤
+moving away from discord tools soon.
 <p align="center"> 
     ﹒
     <a href="https://discord.com/users/709827684888215582">discord</a>
