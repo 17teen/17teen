@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=17teen&color=grey" alt="fax" width="" height="">
 </p>
 <p align="center">
-moving away from discord tools soon.
+Moving away from discord tools soon.
 <p align="center"> 
 <p align="center">
 Currently learning JavaScript & C#
@@ -19,7 +19,7 @@ Currently learning JavaScript & C#
     ﹒
     <a href="https://steamcommunity.com/id/seven777teen/">steam</a>
     ﹒
-    <a href="https://www.youtube.com/channel/UCf-qL9Z_NNwednPSoB42Gpg">youtube</a>
+    <a href="https://www.youtube.com/channel/UCCI1R8tieH6uL9nF0GgiqjQ">youtube</a>
     ﹒
 </p>
 
