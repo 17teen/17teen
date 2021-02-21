@@ -7,8 +7,10 @@
 <img src="https://komarev.com/ghpvc/?username=17teen&color=grey" alt="fax" width="" height="">
 </p>
 <p align="center">
-moving away from discord tools soon. 
-For all those waiting to make my tools able to run on MacOS, you just have to wait till I have the energy 🤷🏿‍♂️
+moving away from discord tools soon.
+<p align="center"> 
+<p align="center">
+Currently learning JavaScript & C#
 <p align="center"> 
     ﹒
     <a href="https://discord.com/users/709827684888215582">discord</a>
