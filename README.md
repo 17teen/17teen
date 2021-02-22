@@ -1,6 +1,4 @@
-<p align="center">  
-  <img src="https://cdn.discordapp.com/attachments/773670296967577600/782008223380668467/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3738313632383031333231.png" alt="Avatar">
-</p>
+
 <p align="center">
     7teen
 <p align="center">  
@@ -22,14 +20,6 @@ Currently learning JavaScript & C#
     <a href="https://www.youtube.com/channel/UCCI1R8tieH6uL9nF0GgiqjQ">youtube</a>
     ﹒
 </p>
-
-<p align="center">  
-  <img src="https://media.discordapp.net/attachments/781963848738930740/781964936275427388/unknown.png" alt="fax" width="450" height="197">
-</p>
-
-<p align="center">  
-</p>
-
 <details>
   <summary>🚧</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17teen&show_icons=true&layout=compact&theme=nightowl" alt="fax">
