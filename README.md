@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=17teen&color=grey" alt="fax" width="" height="">
 </p>
 <p align="center">
-Moving away from discord tools soon. 4 more to do.
+Moving away from discord tools soon. 3 more to do.
 <p align="center"> 
 <p align="center">
 Currently learning JavaScript & C#
