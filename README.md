@@ -4,7 +4,7 @@
 <p align="center">
     7teen
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=17teen&color=grey" alt="fax" width="" height="">
+<img src="https://komarev.com/ghpvc/?username=17teen&color=grey">
 </p>
 <p align="center">
 Moving away from discord tools soon. 3 more to do.
