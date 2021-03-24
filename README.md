@@ -15,6 +15,8 @@ Currently learning JavaScript & C#
     ﹒
     <a href="https://discord.com/users/709827684888215582">discord</a>
     ﹒
+    <a href="https://discord.gg/CCe5cFtsq7">discord server</a>
+    ﹒
     <a href="https://t.me/clairvoyant7teen">telegram</a>
     ﹒
     <a href="https://steamcommunity.com/id/seven777teen/">steam</a>
