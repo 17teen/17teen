@@ -24,12 +24,6 @@ Currently learning JavaScript & C#
     <a href="https://www.youtube.com/channel/UCCI1R8tieH6uL9nF0GgiqjQ">youtube</a>
     ﹒
 </p>
-<details>
-  <summary>🚧</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17teen&show_icons=true&layout=compact&theme=nightowl" alt="fax">
-</details>
-
-<details>
-  <summary>🎌</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=17teen&theme=nightowl&show_icons=true" alt="fax">
-</details>
+<p align="center">  
+Best way to reach me telegram or join my discord server and DM me. I don't accept friend requests.
+</p>
