@@ -25,5 +25,5 @@ Currently learning JavaScript & C#
     ﹒
 </p>
 <p align="center">  
-Best way to reach me telegram or join my discord server and DM me. I don't accept friend requests.
+Best way to reach me is telegram or joining my discord server and DM me. I don't accept friend requests.
 </p>
