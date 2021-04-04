@@ -10,7 +10,7 @@
 Moving away from discord tools soon. 3 more to do.
 <p align="center"> 
 <p align="center">
-Currently learning JavaScript
+Currently learning JavaScript & Go
 <p align="center"> 
     ﹒
     <a href="https://discord.com/users/709827684888215582">discord</a>
