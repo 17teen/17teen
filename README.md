@@ -21,7 +21,10 @@ Currently learning JavaScript & Go
     ﹒
     <a href="https://steamcommunity.com/id/seven777teen/">steam</a>
     ﹒
-    <a href="https://www.youtube.com/channel/UCCI1R8tieH6uL9nF0GgiqjQ">youtube</a>
+    <a href="https://www.youtube.com/channel/UCCI1R8tieH6uL9nF0GgiqjQ">edits</a>
+    ﹒
+    ﹒
+    <a href="https://www.youtube.com/channel/UC4PEPbLPaLkiJf4Y-uZ9p9Q">youtube</a>
     ﹒
 </p>
 <p align="center">  
