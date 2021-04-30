@@ -30,3 +30,9 @@ Currently learning JavaScript & Go
 <p align="center">  
 Best way to reach me is telegram or joining my discord server and DM me. I don't accept friend requests.
 </p>
+
+<details>
+  <summary>Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=17teen&show_icons=true&count_private=true&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17teen">
+</details>
