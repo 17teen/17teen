@@ -7,8 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=17teen&color=grey">
 </p>
 <p align="center">
-Moving away from discord tools soon. 3 more to do.
-<p align="center"> 
+Moving away from discord tools soon.
 <p align="center">
 Currently learning JavaScript
 <p align="center">
