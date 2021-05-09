@@ -6,12 +6,18 @@
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=17teen&color=grey">
 </p>
+    <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/709827684888215582.png" />
+</p>
 <p align="center">
 Moving away from discord tools soon.
 <p align="center">
 Currently learning JavaScript
 <p align="center">
-<a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
+    <a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
+
+<details>
+  <summary>Extra</summary>
 <details>
   <summary>Socials</summary>
     <p align="center">
@@ -59,4 +65,5 @@ Best way to reach me is telegram or joining my discord server then DMing me. I d
   <summary>Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=17teen&show_icons=true&count_private=true&hide_title=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17teen">
+</details>
 </details>
