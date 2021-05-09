@@ -10,8 +10,6 @@
   <img src="https://discord.c99.nl/widget/theme-4/709827684888215582.png" />
 </p>
 <p align="center">
-Moving away from discord tools soon.
-<p align="center">
 Currently learning JavaScript
 <p align="center">
     <a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
